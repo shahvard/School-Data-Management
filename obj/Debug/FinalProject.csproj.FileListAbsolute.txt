@@ -1,0 +1,12 @@
+C:\Semester 4\C#\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Semester 4\C#\FinalProject\bin\Debug\FinalProject.exe
+C:\Semester 4\C#\FinalProject\bin\Debug\FinalProject.pdb
+C:\Semester 4\C#\FinalProject\bin\Debug\EntityFramework.dll
+C:\Semester 4\C#\FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Semester 4\C#\FinalProject\bin\Debug\EntityFramework.xml
+C:\Semester 4\C#\FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Semester 4\C#\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Semester 4\C#\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Semester 4\C#\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Semester 4\C#\FinalProject\obj\Debug\FinalProject.exe
+C:\Semester 4\C#\FinalProject\obj\Debug\FinalProject.pdb
